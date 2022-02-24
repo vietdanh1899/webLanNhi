@@ -1,0 +1,106 @@
+body { background: rgb(245, 250, 211) url("bg_home.png") repeat-x scroll left top; color: rgb(36, 43, 45); margin: 0px auto; padding: 0px; inset: 0px; position: relative; font-size: 13px; min-height: 500px; }
+.title_document { background-color: rgb(122, 150, 224); color: white; font-weight: bold; height: 30px; background-image: url(""); }
+a:hover { color: rgb(153, 0, 0); }
+.menu_top li { background: rgba(0, 0, 0, 0) url("") no-repeat scroll right center; }
+.main { background: rgba(0, 0, 0, 0) url("") repeat-x scroll 0% 0%; }
+.left .wdanhmuc ul li { background: rgba(0, 0, 0, 0) url("") no-repeat scroll left bottom; }
+.left .wthuvien ul li { background: rgba(0, 0, 0, 0) url("") no-repeat scroll left bottom; }
+.left .wlienketngoai p { border-bottom: 1px solid rgb(204, 204, 204); }
+.center { background: rgba(0, 0, 0, 0) url("") repeat-x scroll 0% 0%; }
+footer { color: rgb(51, 51, 51); background: rgba(0, 0, 0, 0) url("") repeat-x scroll 0% 0%; }
+.tuongtac { background: rgb(255, 255, 255) url("") no-repeat scroll right bottom !important; }
+footer .nav_ft a { color: rgb(51, 51, 51); }
+footer .nav_ft a:hover { color: rgb(153, 0, 0); }
+header { background: rgba(0, 0, 0, 0) url("") repeat scroll 0% 0%; width: 100%; height: 250px; margin-top: 5px; border-bottom: 3px solid rgb(248, 201, 213); }
+.logo p { color: rgb(243, 243, 243); font-size: 33px; font-weight: bold; line-height: 32px; margin-left: 8px; margin-top: 0px; text-align: center; text-shadow: rgb(221, 221, 221) 1px 1px 1px; width: 254px; }
+.login { height: 30px; width: 201px; background: rgba(0, 0, 0, 0) url("") no-repeat scroll 0% 0%; }
+.menu_top { background: rgba(0, 0, 0, 0) url("") no-repeat scroll 0% 0%; height: 49px; width: 1003px; margin: 53px auto 0px; }
+.left .wdanhmuc { box-shadow: rgb(153, 153, 153) 1px 1px 1px 0px; background: rgb(245, 210, 224) url("") no-repeat scroll left top; color: rgb(255, 255, 255); padding-bottom: 2px; }
+.left .wthuvien { box-shadow: rgb(153, 153, 153) 1px 1px 1px 0px; background-color: rgb(245, 210, 224); margin-bottom: 10px; margin-top: 10px; }
+.left .wthamdoykien { box-shadow: rgb(153, 153, 153) 1px 1px 1px 0px; background: rgb(245, 210, 224) url("") no-repeat scroll left top; border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; margin-top: 10px; padding: 0px 0px 10px; }
+.center .whoatdong section { width: 473px; min-height: 190px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 1px solid rgb(243, 197, 209); float: left; padding: 10px; }
+.center .wgoctuongtac section { width: 473px; min-height: 190px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 1px solid rgb(195, 198, 223); float: left; padding: 10px; }
+.right .tit_wlichcongtac { height: 38px; background: rgba(0, 0, 0, 0) url("") repeat scroll 0% 0%; }
+.right .tit_wlichcongtac h4 { color: rgb(255, 255, 255); font-size: 15px; font-weight: normal; position: relative; text-align: center; top: 14px; }
+.right .tit_wtieubieu { height: 35px; background: rgba(0, 0, 0, 0) url("") repeat scroll 0% 0%; }
+.right .tit_wtieubieu h4 { color: rgb(255, 255, 255); font-size: 15px; font-weight: normal; position: relative; text-align: center; top: 12px; }
+.right .tit_wdieukiendayhoc { height: 35px; background: rgba(0, 0, 0, 0) url("") repeat scroll 0% 0%; }
+.right .tit_wdieukiendayhoc h4 { color: rgb(255, 255, 255); font-size: 15px; font-weight: normal; position: relative; text-align: center; top: 12px; }
+.left .tit_wdanhmuc { background: rgba(0, 0, 0, 0) url("") no-repeat scroll left top; height: 58px; }
+.left .tit_wdanhmuc h4 { color: rgb(10, 147, 244); font-size: 15px; font-weight: normal; position: relative; text-align: center; top: 22px; }
+.right .tit_wdanhmuc { height: 35px; background: rgba(0, 0, 0, 0) url("") repeat scroll 0% 0%; }
+.right .tit_wdanhmuc h4 { color: rgb(255, 255, 255); font-size: 15px; font-weight: normal; position: relative; text-align: center; top: 12px; }
+.left .wthongbaomoi { background-color: rgb(245, 210, 224); box-shadow: rgb(153, 153, 153) 1px 1px 1px 0px; color: rgb(255, 255, 255); margin-top: 10px; padding: 0px; }
+.left .tit_wthongbaomoi { background: rgba(0, 0, 0, 0) url("") no-repeat scroll left top; height: 58px; }
+.left .tit_wthongbaomoi h4 { color: rgb(10, 147, 244); font-size: 15px; font-weight: normal; position: relative; text-align: center; top: 22px; }
+.left .tit_wthuvien { background: rgba(0, 0, 0, 0) url("") no-repeat scroll left top; height: 58px; }
+.left .tit_wthuvien h4 { color: rgb(10, 147, 244); font-size: 15px; font-weight: normal; position: relative; text-align: center; top: 22px; }
+.right .tit_wthuvien { height: 35px; background: rgba(0, 0, 0, 0) url("") repeat scroll 0% 0%; }
+.right .tit_wthuvien h4 { color: rgb(255, 255, 255); font-size: 15px; font-weight: normal; position: relative; text-align: center; top: 12px; }
+.left .tit_wthamdoykien { background: rgba(0, 0, 0, 0) url("") no-repeat scroll left top; height: 58px; }
+.left .tit_wthamdoykien h4 { color: rgb(10, 147, 244); font-size: 15px; font-weight: normal; position: relative; text-align: center; top: 22px; }
+.right .tit_wthamdoykien { height: 35px; background: rgba(0, 0, 0, 0) url("") repeat scroll 0% 0%; }
+.right .tit_wthamdoykien h4 { color: rgb(255, 255, 255); font-size: 15px; font-weight: normal; position: relative; text-align: center; top: 12px; }
+.left .main_link { color: rgb(255, 255, 255); font-weight: bold; cursor: pointer; }
+.right .main_link { color: rgb(51, 51, 51); font-weight: bold; cursor: pointer; }
+.main_link:hover { color: rgb(204, 0, 0); }
+.sub_link { padding-left: 10px; padding-top: 5px; padding-bottom: 5px; width: 165px; background: rgba(0, 0, 0, 0) url("") no-repeat scroll -2px 6px; margin-left: 7px; }
+.wdanhmuc .sub_link { background: transparent url("") no-repeat scroll 0px 3px; margin-left: 6px; padding-bottom: 4px; padding-left: 12px; padding-top: 0px; width: 165px; }
+.sub_link_select { color: rgb(255, 0, 0); padding-left: 10px; padding-top: 0px; padding-bottom: 5px; background: rgba(0, 0, 0, 0) url("") no-repeat scroll -2px 3px; width: 165px; margin-left: 7px; }
+.sub_link span { background: rgba(0, 0, 0, 0) url("") no-repeat scroll center bottom; width: 20px; display: inline-block; height: 10px; border: medium none; }
+.sub_link_select span { background: rgba(0, 0, 0, 0) url("") no-repeat scroll center bottom; width: 20px; display: inline-block; height: 10px; border: medium none; }
+.sf-menu li li { background: rgb(245, 210, 224) none repeat scroll 0% 0%; opacity: 0.7; }
+.lof-previous { background: rgb(249, 249, 249) none repeat scroll 0% 0%; }
+.lof-next { background: rgb(249, 249, 249) none repeat scroll 0% 0%; }
+.lof-navigator li.active div { background: rgb(0, 51, 102) none repeat scroll 0% 0%; color: rgb(255, 255, 255); }
+.lof-navigator li div { background: rgb(102, 153, 255) none repeat scroll 0% 0%; }
+.lof-navigator li.active { background: rgba(0, 0, 0, 0) url("") no-repeat scroll left center; color: rgb(0, 51, 102); }
+.center .whoatdong header { background: rgba(0, 0, 0, 0) url("") no-repeat scroll left center; border-bottom: 2px solid rgb(250, 153, 177); width: 495px; margin-bottom: 1px; }
+ul.topnav li:hover ul.subnav { background: rgb(221, 221, 221) none repeat scroll 0% 0%; }
+ul.tabbernav li.tabberactive a { background: rgb(255, 102, 204) none repeat scroll 0px 0px; }
+#slide-out { background: rgb(218, 54, 121) none repeat scroll 0% 0%; color: rgb(0, 0, 51); }
+.tit { color: rgb(0, 0, 51); font-family: arial; font-size: 18px; }
+.right_content .cactinkhac { background: rgba(0, 0, 0, 0) url("") no-repeat scroll 0% 0%; color: rgb(255, 255, 255); }
+.center .wgioithieu section { width: 473px; min-height: 190px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 1px solid rgb(243, 197, 209); float: left; padding: 10px; }
+.center .wgioithieu header { background: rgba(0, 0, 0, 0) url("") no-repeat scroll left center; border-bottom: 2px solid rgb(250, 153, 177); width: 495px; margin-bottom: 1px; }
+.center .wbantinmoi header { background: rgba(0, 0, 0, 0) url("") no-repeat scroll left center; }
+.right .tit_wcpanel { height: 35px; background: rgba(0, 0, 0, 0) url("") repeat scroll 0% 0%; }
+.right .tit_wcpanel h4 { color: rgb(255, 255, 255); font-size: 15px; font-weight: normal; position: relative; text-align: center; top: 12px; }
+.headerslide { border: 1px solid rgb(251, 173, 204); }
+.danhngon { color: rgb(255, 255, 255); }
+.title_parent a { background: transparent url("") no-repeat scroll 0px 0px; color: rgb(51, 51, 51); }
+.tit_header { color: rgb(17, 17, 17); }
+.in_center_top .titcontent { color: rgb(17, 17, 17); }
+.title_parent_administrative { background: transparent url("") no-repeat scroll 0px 0px; color: rgb(247, 245, 175); }
+.left .wthongbaomoi p:last-child { background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; }
+.nd_thongbao { min-height: 20px; padding: 8px; line-height: 17px; }
+.left .nd_thongbao a { color: rgb(51, 51, 51); }
+.right .nd_thongbao a { color: rgb(51, 51, 51); }
+.sl_news .news { color: rgb(255, 255, 255); }
+.sl_news .date { color: rgb(204, 204, 204); font-size: 11px; }
+.result_poll li .rvalue { background-color: rgb(153, 204, 102); }
+.right .question { color: rgb(0, 51, 0); }
+.left .question { color: rgb(255, 255, 255); margin-left: 10px; }
+.rl_idea { color: rgb(51, 51, 51); }
+.left .wdanhmuc ul li a { color: rgb(0, 0, 0); }
+.login a { color: rgb(255, 255, 255); float: left; font-size: 15px; font-weight: bold; margin-left: 58px; margin-top: 7px; }
+#sub_thuvien2 a { }
+.left input { margin-left: 10px; }
+.left .wthuvien ul li a { color: rgb(0, 0, 0); }
+.left .wluottruycap { color: rgb(0, 0, 0); background: rgb(245, 210, 224) none repeat scroll 0px 0px; box-shadow: rgb(153, 153, 153) 1px 1px 1px 0px; line-height: 20px; min-height: 20px; padding: 10px; }
+.right .wluottruycap { color: rgb(51, 51, 51); }
+.tit_header { border-bottom: 2px solid rgb(246, 102, 231); }
+.right .wlienketngoai p { color: rgb(65, 126, 241); }
+#slide-out h3 { color: rgb(255, 255, 255); }
+.frm_login { color: rgb(255, 255, 255); }
+.lost-pwd { color: rgb(255, 255, 255); }
+.register-new { color: rgb(255, 255, 255); }
+.right .tit_wthongbaomoi { background: transparent url("") repeat scroll 0px 0px; }
+.frm_login input.submit { background-color: rgb(51, 153, 204); }
+.title_parent_dropdown a { background: transparent url("") no-repeat scroll 0px 0px; color: rgb(51, 51, 51); padding-top: 5px; }
+.left .nd_thongbao { background: transparent url("") no-repeat scroll left bottom; }
+.day_calendar { background: rgb(251, 239, 249) none repeat scroll 0px 0px; }
+.left .tit_wlichcongtac { background: transparent url("") repeat scroll 0px 0px; height: 38px; }
+.left .tit_wlichcongtac h4 { color: rgb(255, 255, 255); }
+.left .tit_wcpanel h4 { color: rgb(255, 255, 255); }
+.left .tit_wcpanel { background: transparent url("") repeat scroll 0px 0px; height: 38px; }

@@ -1,0 +1,72 @@
+
+#slide-out {
+	-moz-transition: all 1s ease-in-out;
+	-webkit-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+	z-index:9999999;
+	height: 73px;
+	position: absolute ;
+	padding-top: 25px;
+	margin-top: -98px;	
+	margin-left:400px;	
+	border-radius:0 0 0 8px;
+}
+#slide-out h3
+{
+ position:absolute;
+ top:-10px;
+ padding-left:10px;
+}
+.page-wrap {
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	width: 600px;
+}
+#slide-out:hover{
+	margin-top: 0px;
+}
+.button:hover #slide-out{
+	margin-top: 0px;	
+}
+#subscribe{
+	line-height: 0px;
+}
+#subscribe ul li a{
+	background-repeat:no-repeat;
+	display:block;
+	float:left;
+	font-size:24px;
+	height:38px;
+	margin: 0px 20px;
+	padding: 10px 0px 0px 55px;
+	text-decoration: none;	
+	line-height: normal;
+}
+#subscribe ul li a:hover{
+	color: #fff;
+}
+
+.frm_login
+{
+	padding-left:10px;
+	position: relative;
+    top: 10px;
+	
+}
+.lost-pwd
+{
+
+	position: relative;
+    top: 10px;
+	text-decoration:underline
+}
+.register-new
+{
+
+	position: relative;
+    top: 10px;
+	margin-left:20px;
+	text-decoration:underline
+}
